@@ -1,3 +1,3 @@
-# javaScript-Fundamentals-Part-1
+# javaScript-Fundamentals-Part-2
 Some Coding challenges in javaScript. 
-Topics covered: data types, variables, type conversion and type coercion, strings and template literals, basic operators, logical operators, if-else statements, switch statements, Conditional operator.
+Topics covered: Function Declarations, Function Expressions, Arrow Functions.
